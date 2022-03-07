@@ -1,0 +1,61 @@
+
+
+
+
+DATE=Sun Mar 06 2022 22:07:34 GMT+0530 (India Standard Time)
+Email=karanzirakpur@gmail.com
+Length=400
+Breadth54
+Weight300
+Pickupadd=1
+Dropadd
+phone=+917307039393
+serviceType=PickUp
+
+
+
+DATE=Sun Mar 06 2022 22:25:29 GMT+0530 (India Standard Time)
+Email=karanzirakpur@gmail.com
+Length=122
+Breadth133
+Weight12
+Pickupadd=1
+Dropadd
+phone=123
+serviceType=PickUp
+
+
+
+DATE=Sun Mar 06 2022 22:25:47 GMT+0530 (India Standard Time)
+Email=karanzirakpur@gmail.com
+Length=122
+Breadth133
+Weight12
+Pickupadd=1
+Dropadd
+phone=123
+serviceType=PickUp
+
+
+
+DATE=Sun Mar 06 2022 22:29:20 GMT+0530 (India Standard Time)
+Email=karanzirakpur@gmail.com
+Length=90
+Breadth90
+Weight90
+Pickupadd=1
+Dropadd
+phone=+917307039393
+serviceType=PickUp
+
+
+
+DATE=Sun Mar 06 2022 23:03:10 GMT+0530 (India Standard Time)
+Email=karanzirakpur@gmail.com
+Length=23
+Breadth789
+Weight34
+Pickupadd=1
+Dropadd
+phone=+917307039393
+serviceType=PickupAndDelivery

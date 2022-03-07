@@ -1,0 +1,25 @@
+
+
+
+
+DATE=Mon Mar 07 2022 01:28:37 GMT+0530 (India Standard Time)
+Email=navpreet@gmail.com
+Length=70
+Breadth67
+Weight90
+Pickupadd=Hno 17 lohgarh golden enclave block H
+Dropadd
+phone=+917307039393
+serviceType=PickUp
+
+
+
+DATE=Mon Mar 07 2022 01:48:40 GMT+0530 (India Standard Time)
+Email=navpreet@gmail.com
+Length=67
+Breadth89
+Weight23
+Pickupadd=Hno 17 lohgarh golden enclave block H
+Dropadd
+phone=+917307039393
+serviceType=PickupAndDelivery
